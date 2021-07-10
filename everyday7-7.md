@@ -1,5 +1,5 @@
 ---
-titile:【leetcod每日一题】2021-7-7/[1711. 大餐计数]
+title:【leetcod每日一题】2021-7-7/[1711. 大餐计数]
 date:2021-7-8
 tags:Leetcode
 authoe:mili

@@ -1,5 +1,5 @@
 ---
-titile:【leetcod每日一题】2021-7-8/[930. 和相同的二元子数组]
+title:【leetcod每日一题】2021-7-8/[930. 和相同的二元子数组]
 date:2021-7-8
 tags:Leetcode
 authoe:mili
