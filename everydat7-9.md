@@ -5,9 +5,9 @@ tags:Leetcode
 authoe:mili
 ---
 
-# 【leetcod每日一题】2021-7-9/[[面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)]
+## 【leetcod每日一题】2021-7-9/[[面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)]
 
-## 题目
+### 题目
 
 数组中占比超过一半的元素称之为主要元素。给你一个 整数 数组，找出其中的主要元素。若没有，返回 -1 。请设计时间复杂度为 O(N) 、空间复杂度为 O(1) 的解决方案。
 
@@ -24,7 +24,7 @@ authoe:mili
 输入：[2,2,1,1,1,2,2]
 输出：2
 
-## 题解
+### 题解
 
 今日题目是一道简单题目，看完基本上就思路很清晰了。这里提供两种解法吧。
 
@@ -70,7 +70,7 @@ class Solution:
 
 （因为太菜了，所以只能在写一道简单题的多种解法。有点孔乙己茴香豆的四种写法的味道。）
 
-## 复杂度分析
+### 复杂度分析
 
 计数排序：
 
